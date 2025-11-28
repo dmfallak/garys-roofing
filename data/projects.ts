@@ -17,8 +17,8 @@ export const projects: Project[] = [
     category: "Residential",
     location: "Cambridge, ON",
     year: "2024",
-    beforeImage: "https://images.unsplash.com/photo-1632823469964-9751d4733ca9?w=800",
-    afterImage: "https://images.unsplash.com/photo-1571055107559-3e67626fa8be?w=800",
+    beforeImage: "/images/projects/project-1-before.png",
+    afterImage: "/images/projects/project-1-after.png",
   },
   {
     id: "2",
